@@ -1,4 +1,4 @@
-# Final project
+#  Nutrition Data Visualization Application
 
 ## Description
 The Nutrition Data Visualization Application is a powerful JavaScript-based tool designed to help you organize, analyze, and visualize nutrition information effortlessly. Whether you're a health-conscious individual, a fitness enthusiast, or a nutritionist, this application empowers you to make data-driven decisions about your diet.
